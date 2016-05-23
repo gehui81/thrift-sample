@@ -1,0 +1,10 @@
+.idea/
+*/target/
+*.iml
+*/*.iml
+.project
+.settings
+.classpath
+.externalToolBuilders
+log/caimao-sc.log
+/target/
